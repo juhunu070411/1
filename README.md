@@ -23,4 +23,5 @@
 |c|medium|
 |c++|medium|
 |-----|----|
-![python](https://img
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=yellow)
+
