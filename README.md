@@ -22,6 +22,5 @@
 |java|high|
 |c|medium|
 |c++|medium|
-|-----|----|
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=yellow)
 
