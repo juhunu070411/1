@@ -1,3 +1,3 @@
 ## INTRODUCTION ##
-**Name:** ### juhunu ###
-**college:** ### Mgit ###
+**Name:**juhunu
+**college:**Mgit
