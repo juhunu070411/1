@@ -4,14 +4,14 @@
 ## branch: cse ##
 ## year: 3rd ##
 ## hobbies ##
--cooking
--painting
--craftwork
+- cooking
+- painting
+- craftwork
 **languages known**
--python
--java
--c
--c++
+- python
+- java
+- c
+- c++
 ## github:[juhunu070411](https://github.com/juhunu070411/wedding.git)
 ## activities:[github](https://github.com/juhunu070411/stories.git)
 ----
