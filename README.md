@@ -1,2 +1,3 @@
-## iNTRODUCTION ##
-** Name: ** ### juhunu ###
+## INTRODUCTION ##
+**Name:**### juhunu ###
+**college:**### Mgit ###
