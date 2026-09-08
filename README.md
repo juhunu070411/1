@@ -12,7 +12,7 @@
 -java
 -c
 -c++
-**github:[juhunu070411(https://github.com/juhunu070411/wedding.git)**
+**github:[juhunu070411](https://github.com/juhunu070411/wedding.git)**
 **activities:[github](https://github.com/juhunu070411/stories.git)**
 ----
 **languages frequency(how well do i know each language)**
